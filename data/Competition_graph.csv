@@ -1,0 +1,1363 @@
+source,target,year
+United States,CoCom,1950
+United States,New Zealand,2022
+United States,Organization of American States,2009
+United States,South Africa,2023
+United States,United Kingdom,2022
+United States,Hong Kong,1951
+United States,UN,2022
+United States,South Vietnam,1954
+United States,France,2023
+United States,Venezuela,2009
+United States,Colombia,2023
+United States,Costa Rica,1962
+United States,Dominican Republic,1962
+United States,Germany,2023
+United States,Malaya,1963
+United States,Switzerland,2023
+United States,Italy,2022
+United States,Sweden,2023
+United States,India,2005
+United States,Mexico,2003
+United States,Canada,2023
+United States,Australia,2021
+United States,Japan,2023
+United States,Thailand,1975
+United States,Denmark,2023
+United States,NATO,1981
+United States,EEC,1990
+United States,Belgium,2015
+United States,Netherlands,2023
+United States,Commonwealth,2006
+United States,Finland,2021
+United States,Iceland,2022
+United States,Norway,2023
+United States,Turkey,2023
+United States,Kuwait,1990
+United States,CSCE,1992
+United States,Portugal,1992
+United States,Spain,2002
+United States,EU,2023
+United States,Kiribati,1995
+United States,Nauru,1995
+United States,Cyprus,1998
+United States,Malta,1996
+United States,Croatia,2013
+United States,Macedonia,2023
+United States,Montenegro,2023
+United States,Albania,2023
+United States,Serbia,2021
+United States,Bosnia and Herzegovina,2017
+United States,Liechtenstein,2023
+United States,Ukraine,2021
+United States,Moldova,2023
+United States,Armenia,2012
+United States,Georgia,2017
+United States,Congo,1996
+United States,Democratic Republic of the,1996
+United States,Eritrea,1996
+United States,Ethiopia (excludes Eritrea),1996
+United States,Kenya,1996
+United States,Rwanda,1996
+United States,Tanzania,1996
+United States,Uganda,1996
+United States,Zambia,1996
+United States,Organisation of African Unity,1996
+United States,Bulgaria,1998
+United States,Czech Republic,2023
+United States,Estonia,2023
+United States,Hungary,1998
+United States,Romania,1998
+United States,Slovakia,1998
+United States,Slovenia,1998
+United States,Sweden,1998
+United States,Luxembourg,2002
+United States,Ireland,2002
+United States,Greece,2002
+United States,Austria,2023
+United States,China,2003
+United States,African Union,2022
+United States,South Korea,2023
+United States,The Gambia,2011
+United States,Algeria,2012
+United States,Russia,2020
+United States,Burkina Faso,2017
+United States,Norway,2017
+United States,Peru,2017
+United States,Lithuania,2023
+United States,ECOWAS,2023
+United States,Saudi Arabia,2021
+United States,Singapore,2022
+United States,Taiwan,2022
+United States,Kosovo,2022
+United States,G7,2022
+United States,Monaco,2022
+United States,Poland,2023
+United States,Honduras,2023
+United States,Latvia,2023
+United States,"Bosnia and Herzegovina,Iceland",2023
+United States,Bahrain,2023
+United States,Belize,2023
+United States,Bolivia,2023
+United States,Chile,2023
+United States,Jordan,2023
+United States,Korea,2023
+United States,South,2023
+United States,Kazakhstan,2023
+CoCom,New Zealand,1950
+CoCom,Organization of American States,1950
+CoCom,South Africa,1950
+CoCom,United Kingdom,1950
+CoCom,Austria,1950
+CoCom,Finland,1950
+CoCom,Sweden,1950
+CoCom,Switzerland,1950
+New Zealand,Organization of American States,1950
+New Zealand,South Africa,1950
+New Zealand,United Kingdom,2022
+New Zealand,Australia,2014
+New Zealand,Canada,2022
+New Zealand,EEC,1982
+New Zealand,Norway,2022
+New Zealand,Switzerland,2014
+New Zealand,Commonwealth,2006
+New Zealand,India,1987
+New Zealand,Japan,2014
+New Zealand,Denmark,1995
+New Zealand,Kiribati,1995
+New Zealand,Nauru,1995
+New Zealand,Sweden,1995
+New Zealand,EU,2022
+New Zealand,Pacific Islands Forum,2009
+New Zealand,Montenegro,2021
+New Zealand,Albania,2022
+New Zealand,Liechtenstein,2022
+New Zealand,Ukraine,2014
+New Zealand,Iceland,2022
+New Zealand,Macedonia,2022
+New Zealand,Serbia,2021
+New Zealand,Germany,2022
+New Zealand,Singapore,2022
+New Zealand,Taiwan,2022
+New Zealand,Kosovo,2022
+New Zealand,France,2022
+New Zealand,G7,2022
+New Zealand,Monaco,2022
+New Zealand,Italy,2022
+Organization of American States,South Africa,1950
+Organization of American States,United Kingdom,1950
+Organization of American States,Canada,1991
+Organization of American States,France,1991
+Organization of American States,Venezuela,2009
+Organization of American States,EU,2009
+South Africa,United Kingdom,1999
+South Africa,UN,1996
+South Africa,Commonwealth,1999
+South Africa,Colombia,2023
+South Africa,Honduras,2023
+South Africa,Ukraine,2023
+South Africa,Bahrain,2023
+South Africa,Belize,2023
+South Africa,Bolivia,2023
+South Africa,Chile,2023
+South Africa,Jordan,2023
+South Africa,Turkey,2023
+United Kingdom,France,2021
+United Kingdom,India,2005
+United Kingdom,Japan,1996
+United Kingdom,UN,1986
+United Kingdom,Denmark,2023
+United Kingdom,Norway,2023
+United Kingdom,Canada,2023
+United Kingdom,Australia,2023
+United Kingdom,Switzerland,2023
+United Kingdom,Germany,2023
+United Kingdom,Mexico,1974
+United Kingdom,Belgium,2002
+United Kingdom,EEC,1991
+United Kingdom,Italy,2022
+United Kingdom,Kuwait,1990
+United Kingdom,Saudi Arabia,2021
+United Kingdom,Portugal,1992
+United Kingdom,EU,2022
+United Kingdom,Kiribati,1995
+United Kingdom,Nauru,1995
+United Kingdom,Sweden,2023
+United Kingdom,Netherlands,2012
+United Kingdom,Commonwealth,2002
+United Kingdom,Turkey,2002
+United Kingdom,Iceland,2022
+United Kingdom,Liechtenstein,2023
+United Kingdom,Luxembourg,2002
+United Kingdom,Ireland,2005
+United Kingdom,Greece,2002
+United Kingdom,Spain,2014
+United Kingdom,Austria,2023
+United Kingdom,Finland,2021
+United Kingdom,Croatia,2002
+United Kingdom,Macedonia,2023
+United Kingdom,Montenegro,2023
+United Kingdom,Albania,2023
+United Kingdom,Bosnia and Herzegovina,2002
+United Kingdom,Serbia,2021
+United Kingdom,Ukraine,2023
+United Kingdom,Moldova,2023
+United Kingdom,Armenia,2002
+United Kingdom,Georgia,2002
+United Kingdom,Czech Republic,2023
+United Kingdom,African Union,2021
+United Kingdom,ECOWAS,2022
+United Kingdom,Singapore,2022
+United Kingdom,Taiwan,2022
+United Kingdom,Kosovo,2022
+United Kingdom,G7,2022
+United Kingdom,Monaco,2022
+United Kingdom,Poland,2023
+United Kingdom,Estonia,2023
+United Kingdom,Latvia,2023
+United Kingdom,Lithuania,2023
+United Kingdom,"Bosnia and Herzegovina,Iceland",2023
+United Kingdom,Kazakhstan,2023
+Austria,Finland,2002
+Austria,Sweden,2023
+Austria,Switzerland,2023
+Austria,Belgium,2002
+Austria,France,2002
+Austria,Germany,2023
+Austria,Italy,2002
+Austria,Luxembourg,2002
+Austria,Netherlands,2002
+Austria,Denmark,2023
+Austria,Ireland,2002
+Austria,Greece,2002
+Austria,Spain,2002
+Austria,Canada,2023
+Finland,Sweden,2019
+Finland,Switzerland,1950
+Finland,Belgium,2002
+Finland,Denmark,2002
+Finland,German Democratic Republic,1973
+Finland,Germany,2021
+Finland,Soviet Union,1973
+Finland,Norway,1985
+Finland,Netherlands,2002
+Finland,France,2002
+Finland,Australia,1985
+Finland,Commonwealth,1985
+Finland,Iceland,1985
+Finland,EEC,1985
+Finland,Italy,2002
+Finland,Luxembourg,2002
+Finland,Ireland,2002
+Finland,Greece,2002
+Finland,Spain,2002
+Finland,EU,2019
+Finland,Czech Republic,2021
+Sweden,Switzerland,2023
+Sweden,Italy,2002
+Sweden,Belgium,2002
+Sweden,Denmark,2023
+Sweden,German Democratic Republic,1973
+Sweden,Germany,2023
+Sweden,Soviet Union,1973
+Sweden,Norway,2005
+Sweden,Netherlands,2012
+Sweden,France,2002
+Sweden,Australia,1995
+Sweden,Commonwealth,1985
+Sweden,Iceland,1985
+Sweden,EEC,1985
+Sweden,Japan,1996
+Sweden,Kiribati,1995
+Sweden,Nauru,1995
+Sweden,Luxembourg,2002
+Sweden,Ireland,2005
+Sweden,Greece,2002
+Sweden,Spain,2002
+Sweden,EU,2019
+Sweden,Canada,2023
+Switzerland,UN,2016
+Switzerland,Denmark,2023
+Switzerland,Norway,2022
+Switzerland,Canada,2016
+Switzerland,Australia,2016
+Switzerland,Germany,2023
+Switzerland,EEC,1982
+Switzerland,EU,2021
+Switzerland,Cyprus,2001
+Switzerland,Malta,2001
+Switzerland,Turkey,2014
+Switzerland,Croatia,2014
+Switzerland,Macedonia,2022
+Switzerland,Montenegro,2014
+Switzerland,Iceland,2022
+Switzerland,Albania,2022
+Switzerland,Serbia,2014
+Switzerland,Bosnia and Herzegovina,2014
+Switzerland,Liechtenstein,2022
+Switzerland,Ukraine,2002
+Switzerland,Moldova,2011
+Switzerland,Armenia,2014
+Switzerland,Georgia,2014
+Switzerland,Commonwealth,2002
+Switzerland,African Union,2012
+Switzerland,ECOWAS,2012
+Switzerland,The Gambia,2011
+Switzerland,OIC,2012
+Switzerland,Russia,2014
+Switzerland,Djibouti,2016
+Switzerland,Singapore,2022
+Switzerland,Taiwan,2022
+Switzerland,Kosovo,2022
+Switzerland,France,2022
+Switzerland,G7,2022
+Switzerland,Monaco,2022
+Switzerland,Italy,2022
+Switzerland,Poland,2023
+Switzerland,Estonia,2023
+Switzerland,Latvia,2023
+Switzerland,Lithuania,2023
+Switzerland,Czech Republic,2023
+Switzerland,Kazakhstan,2023
+Egypt,France,1950
+Egypt,League of Arab States,1950
+Egypt,Arab Rep.,2017
+Egypt,Syria,1957
+Egypt,Chad,2017
+Egypt,Libya,2017
+Egypt,Maldives,2017
+Egypt,Mauritania,2017
+Egypt,Djibouti,2017
+Egypt,Comoros,2017
+Egypt,Jordan,2017
+Egypt,Yemen,2017
+Egypt,North,2017
+Egypt,Niger,2017
+Egypt,Saudi Arabia,2017
+Egypt,United Arab Emirates,2017
+Egypt,Bahrain,2017
+Egypt,Senegal,2017
+France,League of Arab States,1950
+France,Czechoslovakia,1968
+France,Netherlands,2023
+France,Italy,2022
+France,Belgium,2002
+France,China,1978
+France,Australia,2022
+France,Commonwealth,1985
+France,Denmark,2022
+France,Iceland,2022
+France,Norway,2022
+France,EEC,1986
+France,Japan,2022
+France,UN,1986
+France,Venezuela,1991
+France,Portugal,1992
+France,EU,2023
+France,Germany,2022
+France,Congo,1996
+France,Democratic Republic of the,1996
+France,Eritrea,1996
+France,Ethiopia (excludes Eritrea),1996
+France,Kenya,1996
+France,Rwanda,1996
+France,Tanzania,1996
+France,Uganda,1996
+France,Zambia,1996
+France,Organisation of African Unity,1996
+France,Canada,2023
+France,Luxembourg,2002
+France,Ireland,2002
+France,Greece,2002
+France,Spain,2002
+France,African Union,2023
+France,ECOWAS,2023
+France,Algeria,2012
+France,Albania,2022
+France,Macedonia,2022
+France,South Korea,2022
+France,Poland,2022
+France,Singapore,2022
+France,Taiwan,2022
+France,Kosovo,2022
+France,G7,2022
+France,Liechtenstein,2022
+France,Monaco,2022
+League of Arab States,Organisation of African Unity,1973
+League of Arab States,Bosnia and Herzegovina,2011
+League of Arab States,Armenia,2011
+League of Arab States,Georgia,2011
+League of Arab States,UN,2011
+League of Arab States,The Gambia,2011
+Hong Kong,UN,1951
+Hong Kong,South Korea,2022
+Hong Kong,China,2023
+UN,Denmark,1986
+UN,Norway,2012
+UN,Canada,2022
+UN,Australia,2016
+UN,Germany,1966
+UN,EEC,1991
+UN,Japan,1990
+UN,EU,2018
+UN,ECOWAS,2012
+UN,Cyprus,2002
+UN,Malta,2002
+UN,Turkey,2012
+UN,Croatia,2012
+UN,Macedonia,2012
+UN,Montenegro,2012
+UN,Iceland,2012
+UN,Albania,2012
+UN,Serbia,2012
+UN,Bosnia and Herzegovina,2012
+UN,Liechtenstein,2012
+UN,Ukraine,2012
+UN,Moldova,2012
+UN,Armenia,2012
+UN,Georgia,2011
+UN,Commonwealth,1997
+UN,Czech Republic,2002
+UN,Estonia,2002
+UN,Hungary,2002
+UN,Latvia,2002
+UN,Lithuania,2002
+UN,Poland,2002
+UN,Slovakia,2002
+UN,Slovenia,2002
+UN,Bulgaria,2002
+UN,Romania,2002
+UN,Israel,2006
+UN,Russia,2009
+UN,South Korea,2010
+UN,The Gambia,2011
+UN,African Union,2013
+UN,Kimberly Process Participants,2013
+UN,Djibouti,2016
+ChinCom,Japan,1952
+Japan,India,1964
+Japan,Australia,2023
+Japan,Germany,2022
+Japan,EEC,1991
+Japan,Denmark,1998
+Japan,Canada,2014
+Japan,Belgium,1989
+Japan,Italy,2022
+Japan,EU,2014
+Japan,Portugal,1992
+Japan,Spain,1992
+Japan,Venezuela,1992
+Japan,Kiribati,1995
+Japan,Nauru,1995
+Japan,Norway,2022
+Japan,Netherlands,1997
+Japan,Sweden,1998
+Japan,China,2003
+Japan,Mexico,2003
+Japan,Brazil,2003
+Japan,Russia,2014
+Japan,Ukraine,2014
+Japan,Moldova,2014
+Japan,Albania,2022
+Japan,Macedonia,2022
+Japan,Singapore,2022
+Japan,Taiwan,2022
+Japan,Kosovo,2022
+Japan,G7,2022
+Japan,Iceland,2022
+Japan,Liechtenstein,2022
+Japan,Monaco,2022
+Japan,South Korea,2023
+Japan,Korea,2023
+Japan,South,2023
+Arab Rep.,Syria,1957
+Arab Rep.,Chad,2017
+Arab Rep.,Libya,2017
+Arab Rep.,Maldives,2017
+Arab Rep.,Mauritania,2017
+Arab Rep.,Djibouti,2017
+Arab Rep.,Comoros,2017
+Arab Rep.,Jordan,2017
+Arab Rep.,Yemen,2017
+Arab Rep.,North,2017
+Arab Rep.,Niger,2017
+Arab Rep.,Saudi Arabia,2017
+Arab Rep.,United Arab Emirates,2017
+Arab Rep.,Bahrain,2017
+Arab Rep.,Senegal,2017
+Venezuela,Colombia,1962
+Venezuela,Costa Rica,1962
+Venezuela,Dominican Republic,1962
+Venezuela,Netherlands,1990
+Venezuela,Canada,1992
+Venezuela,Germany,1992
+Venezuela,Spain,1992
+Venezuela,EU,2009
+Colombia,Costa Rica,1962
+Colombia,Dominican Republic,1962
+Colombia,Honduras,2023
+Colombia,Ukraine,2023
+Colombia,Bahrain,2023
+Colombia,Belize,2023
+Colombia,Bolivia,2023
+Colombia,Chile,2023
+Colombia,Jordan,2023
+Colombia,Turkey,2023
+Costa Rica,Dominican Republic,1962
+Germany,Denmark,2023
+Germany,Norway,2022
+Germany,Canada,2023
+Germany,Australia,2022
+Germany,Belgium,2002
+Germany,German Democratic Republic,1973
+Germany,Soviet Union,1973
+Germany,Netherlands,2012
+Germany,EEC,1989
+Germany,Italy,2022
+Germany,Portugal,1992
+Germany,Spain,2002
+Germany,EU,2022
+Germany,Sweden,1998
+Germany,Luxembourg,2002
+Germany,Ireland,2002
+Germany,Greece,2002
+Germany,Czech Republic,2021
+Germany,Albania,2022
+Germany,Macedonia,2022
+Germany,South Korea,2022
+Germany,Poland,2022
+Germany,Singapore,2022
+Germany,Taiwan,2022
+Germany,Kosovo,2022
+Germany,G7,2022
+Germany,Iceland,2022
+Germany,Liechtenstein,2022
+Germany,Monaco,2022
+India,Australia,1987
+India,Commonwealth,1987
+Denmark,Norway,1996
+Denmark,Canada,2023
+Denmark,Australia,1998
+Denmark,Belgium,2002
+Denmark,German Democratic Republic,1973
+Denmark,Soviet Union,1973
+Denmark,Netherlands,2002
+Denmark,EEC,1986
+Denmark,Commonwealth,1985
+Denmark,Iceland,1985
+Denmark,Portugal,1992
+Denmark,Italy,2002
+Denmark,Kiribati,1995
+Denmark,Nauru,1995
+Denmark,EU,2022
+Denmark,Sweden,1998
+Denmark,G8,1998
+Denmark,Luxembourg,2002
+Denmark,Ireland,2002
+Denmark,Greece,2002
+Denmark,Spain,2002
+Denmark,African Union,2022
+Norway,Canada,2022
+Norway,Australia,2023
+Norway,Belgium,1973
+Norway,German Democratic Republic,1973
+Norway,Soviet Union,1973
+Norway,Netherlands,2005
+Norway,EEC,1985
+Norway,Commonwealth,2002
+Norway,Iceland,2022
+Norway,Albania,2023
+Norway,EU,2023
+Norway,Macedonia,2023
+Norway,Turkey,2014
+Norway,Croatia,2014
+Norway,Montenegro,2023
+Norway,Serbia,2014
+Norway,Liechtenstein,2023
+Norway,Armenia,2014
+Norway,Kiribati,1995
+Norway,Nauru,1995
+Norway,Cyprus,2002
+Norway,Malta,2002
+Norway,Ukraine,2023
+Norway,Georgia,2014
+Norway,Bulgaria,2002
+Norway,Czech Republic,2023
+Norway,Estonia,2023
+Norway,Hungary,2002
+Norway,Romania,2002
+Norway,Slovakia,2002
+Norway,Slovenia,1998
+Norway,Bosnia and Herzegovina,2014
+Norway,Moldova,2023
+Norway,Latvia,2023
+Norway,Lithuania,2023
+Norway,Poland,2023
+Norway,Slovenia,2002
+Norway,Azerbaijan,2003
+Norway,Ireland,2005
+Norway,African Union,2013
+Norway,ECOWAS,2009
+Norway,The Gambia,2011
+Norway,Russia,2014
+Norway,South Korea,2022
+Norway,Singapore,2022
+Norway,Taiwan,2022
+Norway,Kosovo,2022
+Norway,G7,2022
+Norway,Monaco,2022
+Norway,Italy,2022
+Norway,"Bosnia and Herzegovina,Iceland",2023
+Norway,Kazakhstan,2023
+Canada,Australia,2023
+Canada,Belgium,1989
+Canada,EEC,1989
+Canada,Italy,2022
+Canada,Netherlands,2023
+Canada,Portugal,1992
+Canada,Spain,1992
+Canada,EU,2023
+Canada,Sweden,1998
+Canada,Brazil,2003
+Canada,Turkey,2005
+Canada,Croatia,2013
+Canada,Macedonia,2022
+Canada,Montenegro,2021
+Canada,Iceland,2023
+Canada,Albania,2022
+Canada,Bosnia and Herzegovina,2023
+Canada,Serbia,2021
+Canada,Liechtenstein,2022
+Canada,Ukraine,2014
+Canada,Moldova,2023
+Canada,Armenia,2005
+Canada,Georgia,2017
+Canada,South Korea,2010
+Canada,The Gambia,2011
+Canada,African Union,2023
+Canada,ECOWAS,2023
+Canada,Algeria,2012
+Canada,OIC,2012
+Canada,Russia,2014
+Canada,Djibouti,2016
+Canada,Norway,2017
+Canada,Peru,2017
+Canada,Lithuania,2020
+Canada,Latvia,2020
+Canada,Estonia,2020
+Canada,Singapore,2022
+Canada,Taiwan,2022
+Canada,Kosovo,2022
+Canada,G7,2022
+Canada,Monaco,2022
+Canada,Poland,2023
+Canada,"Bosnia and Herzegovina,Iceland",2023
+Australia,EEC,1991
+Australia,Commonwealth,2006
+Australia,Iceland,2022
+Australia,Italy,2022
+Australia,Belgium,1989
+Australia,Kiribati,1995
+Australia,Nauru,1995
+Australia,EU,2023
+Australia,Netherlands,1997
+Australia,Sweden,1998
+Australia,Turkey,2002
+Australia,Liechtenstein,2023
+Australia,Croatia,2002
+Australia,Macedonia,2023
+Australia,Montenegro,2023
+Australia,Albania,2023
+Australia,Bosnia and Herzegovina,2011
+Australia,Serbia,2002
+Australia,Ukraine,2023
+Australia,Moldova,2023
+Australia,Armenia,2011
+Australia,Georgia,2011
+Australia,Pacific Islands Forum,2009
+Australia,The Gambia,2011
+Australia,Russia,2014
+Australia,Djibouti,2016
+Australia,Saudi Arabia,2021
+Australia,Singapore,2022
+Australia,Taiwan,2022
+Australia,Kosovo,2022
+Australia,G7,2022
+Australia,Monaco,2022
+Australia,"Bosnia and Herzegovina,Iceland",2023
+Australia,South Korea,2023
+Australia,Korea,2023
+Australia,South,2023
+Czechoslovakia,Netherlands,1968
+Czechoslovakia,Italy,1968
+Czechoslovakia,Belgium,1968
+Netherlands,Italy,2002
+Netherlands,Belgium,2002
+Netherlands,German Democratic Republic,1973
+Netherlands,Soviet Union,1973
+Netherlands,EU,2023
+Netherlands,Sweden,1998
+Netherlands,Luxembourg,2002
+Netherlands,Ireland,2005
+Netherlands,Greece,2002
+Netherlands,Spain,2002
+Netherlands,Commonwealth,2007
+Netherlands,African Union,2023
+Netherlands,ECOWAS,2023
+Italy,Belgium,2002
+Italy,EEC,1989
+Italy,Portugal,1992
+Italy,Luxembourg,2002
+Italy,Ireland,2002
+Italy,Greece,2002
+Italy,Spain,2002
+Italy,Albania,2022
+Italy,Macedonia,2022
+Italy,EU,2022
+Italy,South Korea,2022
+Italy,Poland,2022
+Italy,Singapore,2022
+Italy,Taiwan,2022
+Italy,Kosovo,2022
+Italy,G7,2022
+Italy,Iceland,2022
+Italy,Liechtenstein,2022
+Italy,Monaco,2022
+Belgium,German Democratic Republic,1973
+Belgium,Soviet Union,1973
+Belgium,EEC,1989
+Belgium,EU,2015
+Belgium,Congo,1996
+Belgium,Democratic Republic of the,1996
+Belgium,Eritrea,1996
+Belgium,Ethiopia (excludes Eritrea),1996
+Belgium,Kenya,1996
+Belgium,Rwanda,1996
+Belgium,Tanzania,1996
+Belgium,Uganda,1996
+Belgium,Zambia,1996
+Belgium,Organisation of African Unity,1996
+Belgium,Luxembourg,2002
+Belgium,Ireland,2002
+Belgium,Greece,2002
+Belgium,Spain,2002
+Organisation of African Unity,EU,1996
+Organisation of African Unity,Congo,1996
+Organisation of African Unity,Democratic Republic of the,1996
+Organisation of African Unity,Eritrea,1996
+Organisation of African Unity,Ethiopia (excludes Eritrea),1996
+Organisation of African Unity,Kenya,1996
+Organisation of African Unity,Rwanda,1996
+Organisation of African Unity,Tanzania,1996
+Organisation of African Unity,Uganda,1996
+Organisation of African Unity,Zambia,1996
+German Democratic Republic,Soviet Union,1973
+Mexico,China,2003
+China,Russia,2022
+China,South Korea,2022
+China,Iran,2022
+EEC,Commonwealth,1985
+EEC,Iceland,1985
+Commonwealth,Iceland,2002
+Commonwealth,EU,2002
+Commonwealth,ECOWAS,1997
+Commonwealth,Turkey,2002
+Commonwealth,Liechtenstein,2002
+Commonwealth,Croatia,2002
+Commonwealth,Macedonia,2002
+Commonwealth,Montenegro,2002
+Commonwealth,Albania,2002
+Commonwealth,Bosnia and Herzegovina,2002
+Commonwealth,Serbia,2002
+Commonwealth,Ukraine,2002
+Commonwealth,Moldova,2002
+Commonwealth,Armenia,2002
+Commonwealth,Georgia,2002
+Iceland,Albania,2022
+Iceland,EU,2022
+Iceland,Macedonia,2022
+Iceland,Turkey,2014
+Iceland,Croatia,2014
+Iceland,Montenegro,2017
+Iceland,Serbia,2014
+Iceland,Liechtenstein,2022
+Iceland,Armenia,2014
+Iceland,Cyprus,2002
+Iceland,Malta,2002
+Iceland,Ukraine,2005
+Iceland,Georgia,2017
+Iceland,Bulgaria,2002
+Iceland,Czech Republic,2023
+Iceland,Estonia,2023
+Iceland,Hungary,2002
+Iceland,Romania,2002
+Iceland,Slovakia,2002
+Iceland,Slovenia,1998
+Iceland,Bosnia and Herzegovina,2017
+Iceland,Moldova,2017
+Iceland,Latvia,2023
+Iceland,Lithuania,2023
+Iceland,Poland,2023
+Iceland,Slovenia,2002
+Iceland,African Union,2009
+Iceland,ECOWAS,2009
+Iceland,The Gambia,2011
+Iceland,Russia,2014
+Iceland,Norway,2017
+Iceland,Peru,2017
+Iceland,South Korea,2022
+Iceland,Singapore,2022
+Iceland,Taiwan,2022
+Iceland,Kosovo,2022
+Iceland,G7,2022
+Iceland,Monaco,2022
+Iceland,Kazakhstan,2023
+Turkey,Albania,2014
+Turkey,EU,2014
+Turkey,Macedonia,2014
+Turkey,Croatia,2014
+Turkey,Montenegro,2014
+Turkey,Serbia,2014
+Turkey,Liechtenstein,2014
+Turkey,Armenia,2014
+Turkey,Cyprus,2002
+Turkey,Malta,2002
+Turkey,Bosnia and Herzegovina,2014
+Turkey,Ukraine,2023
+Turkey,Moldova,2014
+Turkey,Georgia,2014
+Turkey,Czech Republic,2002
+Turkey,Estonia,2002
+Turkey,Hungary,2002
+Turkey,Latvia,2002
+Turkey,Lithuania,2002
+Turkey,Poland,2002
+Turkey,Slovakia,2002
+Turkey,Slovenia,2002
+Turkey,Bulgaria,2002
+Turkey,Romania,2002
+Turkey,Azerbaijan,2003
+Turkey,African Union,2009
+Turkey,ECOWAS,2009
+Turkey,Honduras,2023
+Turkey,Bahrain,2023
+Turkey,Belize,2023
+Turkey,Bolivia,2023
+Turkey,Chile,2023
+Turkey,Jordan,2023
+Kuwait,Saudi Arabia,1990
+EU,Albania,2023
+EU,Macedonia,2023
+EU,Croatia,2014
+EU,Montenegro,2023
+EU,Serbia,2021
+EU,Liechtenstein,2023
+EU,Armenia,2014
+EU,Cyprus,2002
+EU,Malta,2002
+EU,Ukraine,2023
+EU,Georgia,2017
+EU,Congo,1996
+EU,Democratic Republic of the,1996
+EU,Eritrea,1996
+EU,Ethiopia (excludes Eritrea),1996
+EU,Kenya,1996
+EU,Rwanda,1996
+EU,Tanzania,1996
+EU,Uganda,1996
+EU,Zambia,1996
+EU,Bulgaria,2002
+EU,Czech Republic,2023
+EU,Estonia,2023
+EU,Hungary,2002
+EU,Romania,2002
+EU,Slovakia,2002
+EU,Slovenia,1998
+EU,Bosnia and Herzegovina,2017
+EU,Moldova,2023
+EU,Latvia,2023
+EU,Lithuania,2023
+EU,Poland,2023
+EU,Slovenia,2002
+EU,African Union,2023
+EU,Azerbaijan,2003
+EU,Israel,2006
+EU,The Gambia,2011
+EU,Algeria,2012
+EU,Russia,2022
+EU,Norway,2017
+EU,Peru,2017
+EU,ECOWAS,2023
+EU,Singapore,2022
+EU,Taiwan,2022
+EU,Kosovo,2022
+EU,G7,2022
+EU,Monaco,2022
+EU,"Bosnia and Herzegovina,Iceland",2023
+EU,Kazakhstan,2023
+Saudi Arabia,Chad,2017
+Saudi Arabia,Libya,2017
+Saudi Arabia,Maldives,2017
+Saudi Arabia,Mauritania,2017
+Saudi Arabia,Djibouti,2017
+Saudi Arabia,Comoros,2017
+Saudi Arabia,Jordan,2017
+Saudi Arabia,Yemen,2017
+Saudi Arabia,North,2017
+Saudi Arabia,Niger,2017
+Saudi Arabia,United Arab Emirates,2017
+Saudi Arabia,Bahrain,2017
+Saudi Arabia,Senegal,2017
+Spain,Luxembourg,2002
+Spain,Ireland,2002
+Spain,Greece,2002
+ECOWAS,African Union,2023
+ECOWAS,Nigeria,2005
+ECOWAS,Georgia,2009
+ECOWAS,Croatia,2009
+ECOWAS,Macedonia,2009
+ECOWAS,Montenegro,2009
+ECOWAS,Albania,2009
+ECOWAS,Bosnia and Herzegovina,2009
+ECOWAS,Serbia,2009
+ECOWAS,Liechtenstein,2009
+ECOWAS,Ukraine,2009
+ECOWAS,Moldova,2009
+ECOWAS,Armenia,2009
+ECOWAS,Algeria,2012
+Albania,Macedonia,2023
+Albania,Croatia,2014
+Albania,Montenegro,2023
+Albania,Serbia,2021
+Albania,Liechtenstein,2023
+Albania,Armenia,2014
+Albania,Cyprus,2001
+Albania,Malta,2001
+Albania,Ukraine,2023
+Albania,Georgia,2017
+Albania,Bosnia and Herzegovina,2017
+Albania,Moldova,2023
+Albania,Azerbaijan,2003
+Albania,African Union,2013
+Albania,The Gambia,2011
+Albania,Russia,2014
+Albania,Norway,2017
+Albania,Peru,2017
+Albania,South Korea,2022
+Albania,Poland,2023
+Albania,Singapore,2022
+Albania,Taiwan,2022
+Albania,Kosovo,2022
+Albania,G7,2022
+Albania,Monaco,2022
+Albania,Estonia,2023
+Albania,Latvia,2023
+Albania,Lithuania,2023
+Albania,"Bosnia and Herzegovina,Iceland",2023
+Albania,Czech Republic,2023
+Albania,Kazakhstan,2023
+Macedonia,Croatia,2014
+Macedonia,Montenegro,2023
+Macedonia,Serbia,2021
+Macedonia,Liechtenstein,2023
+Macedonia,Armenia,2014
+Macedonia,Cyprus,2001
+Macedonia,Malta,2001
+Macedonia,Ukraine,2023
+Macedonia,Georgia,2017
+Macedonia,Bosnia and Herzegovina,2017
+Macedonia,Moldova,2023
+Macedonia,Azerbaijan,2003
+Macedonia,African Union,2013
+Macedonia,The Gambia,2011
+Macedonia,Norway,2017
+Macedonia,Peru,2017
+Macedonia,South Korea,2022
+Macedonia,Poland,2023
+Macedonia,Singapore,2022
+Macedonia,Taiwan,2022
+Macedonia,Kosovo,2022
+Macedonia,G7,2022
+Macedonia,Monaco,2022
+Macedonia,Estonia,2023
+Macedonia,Latvia,2023
+Macedonia,Lithuania,2023
+Macedonia,"Bosnia and Herzegovina,Iceland",2023
+Macedonia,Czech Republic,2023
+Macedonia,Kazakhstan,2023
+Croatia,Montenegro,2014
+Croatia,Serbia,2014
+Croatia,Liechtenstein,2014
+Croatia,Armenia,2014
+Croatia,Cyprus,2001
+Croatia,Malta,2001
+Croatia,Ukraine,2014
+Croatia,Georgia,2014
+Croatia,Bosnia and Herzegovina,2014
+Croatia,Moldova,2014
+Croatia,Azerbaijan,2003
+Croatia,African Union,2013
+Croatia,The Gambia,2011
+Montenegro,Serbia,2021
+Montenegro,Liechtenstein,2023
+Montenegro,Armenia,2014
+Montenegro,Cyprus,2001
+Montenegro,Malta,2001
+Montenegro,Ukraine,2023
+Montenegro,Georgia,2017
+Montenegro,Bosnia and Herzegovina,2017
+Montenegro,Moldova,2023
+Montenegro,Azerbaijan,2003
+Montenegro,African Union,2009
+Montenegro,The Gambia,2011
+Montenegro,Russia,2014
+Montenegro,Norway,2017
+Montenegro,Peru,2017
+Montenegro,Poland,2023
+Montenegro,Estonia,2023
+Montenegro,Latvia,2023
+Montenegro,Lithuania,2023
+Montenegro,"Bosnia and Herzegovina,Iceland",2023
+Montenegro,Czech Republic,2023
+Montenegro,Kazakhstan,2023
+Serbia,Liechtenstein,2014
+Serbia,Armenia,2014
+Serbia,Cyprus,2001
+Serbia,Malta,2001
+Serbia,Bosnia and Herzegovina,2014
+Serbia,Ukraine,2014
+Serbia,Moldova,2014
+Serbia,Georgia,2014
+Serbia,Azerbaijan,2003
+Serbia,African Union,2013
+Serbia,The Gambia,2011
+Liechtenstein,Armenia,2014
+Liechtenstein,Cyprus,2002
+Liechtenstein,Malta,2002
+Liechtenstein,Ukraine,2023
+Liechtenstein,Georgia,2017
+Liechtenstein,Bosnia and Herzegovina,2017
+Liechtenstein,Moldova,2023
+Liechtenstein,Czech Republic,2023
+Liechtenstein,Estonia,2023
+Liechtenstein,Hungary,2002
+Liechtenstein,Latvia,2023
+Liechtenstein,Lithuania,2023
+Liechtenstein,Poland,2023
+Liechtenstein,Slovakia,2002
+Liechtenstein,Slovenia,2002
+Liechtenstein,Bulgaria,2002
+Liechtenstein,Romania,2002
+Liechtenstein,Azerbaijan,2003
+Liechtenstein,African Union,2013
+Liechtenstein,The Gambia,2011
+Liechtenstein,Russia,2014
+Liechtenstein,Norway,2017
+Liechtenstein,Peru,2017
+Liechtenstein,South Korea,2022
+Liechtenstein,Singapore,2022
+Liechtenstein,Taiwan,2022
+Liechtenstein,Kosovo,2022
+Liechtenstein,G7,2022
+Liechtenstein,Monaco,2022
+Liechtenstein,"Bosnia and Herzegovina,Iceland",2023
+Liechtenstein,Kazakhstan,2023
+Armenia,Cyprus,2001
+Armenia,Malta,2001
+Armenia,Ukraine,2014
+Armenia,Georgia,2014
+Armenia,Bosnia and Herzegovina,2014
+Armenia,Moldova,2014
+Armenia,Azerbaijan,2003
+Armenia,African Union,2009
+Armenia,The Gambia,2011
+Kiribati,Nauru,1995
+Cyprus,Malta,2002
+Cyprus,Bosnia and Herzegovina,2001
+Cyprus,Ukraine,2001
+Cyprus,Moldova,2001
+Cyprus,Georgia,2001
+Cyprus,Bulgaria,2002
+Cyprus,Czech Republic,2002
+Cyprus,Estonia,2002
+Cyprus,Hungary,2002
+Cyprus,Romania,2002
+Cyprus,Slovakia,2002
+Cyprus,Slovenia,1998
+Cyprus,Latvia,2002
+Cyprus,Lithuania,2002
+Cyprus,Poland,2002
+Cyprus,Slovenia,2002
+Malta,Bosnia and Herzegovina,2001
+Malta,Ukraine,2001
+Malta,Moldova,2001
+Malta,Georgia,2001
+Malta,Czech Republic,2002
+Malta,Estonia,2002
+Malta,Hungary,2002
+Malta,Latvia,2002
+Malta,Lithuania,2002
+Malta,Poland,2002
+Malta,Slovakia,2002
+Malta,Slovenia,2002
+Malta,Bulgaria,2002
+Malta,Romania,2002
+Ukraine,Bosnia and Herzegovina,2014
+Ukraine,Moldova,2023
+Ukraine,Georgia,2014
+Ukraine,African Union,2009
+Ukraine,Poland,2023
+Ukraine,Honduras,2023
+Ukraine,Estonia,2023
+Ukraine,Latvia,2023
+Ukraine,Lithuania,2023
+Ukraine,"Bosnia and Herzegovina,Iceland",2023
+Ukraine,Bahrain,2023
+Ukraine,Belize,2023
+Ukraine,Bolivia,2023
+Ukraine,Chile,2023
+Ukraine,Jordan,2023
+Ukraine,Czech Republic,2023
+Ukraine,Kazakhstan,2023
+Georgia,Bosnia and Herzegovina,2017
+Georgia,Moldova,2017
+Georgia,Azerbaijan,2003
+Georgia,African Union,2013
+Georgia,The Gambia,2011
+Georgia,Norway,2017
+Georgia,Peru,2017
+Congo,Democratic Republic of the,1996
+Congo,Eritrea,1996
+Congo,Ethiopia (excludes Eritrea),1996
+Congo,Kenya,1996
+Congo,Rwanda,1996
+Congo,Tanzania,1996
+Congo,Uganda,1996
+Congo,Zambia,1996
+Democratic Republic of the,Eritrea,1996
+Democratic Republic of the,Ethiopia (excludes Eritrea),1996
+Democratic Republic of the,Kenya,1996
+Democratic Republic of the,Rwanda,1996
+Democratic Republic of the,Tanzania,1996
+Democratic Republic of the,Uganda,1996
+Democratic Republic of the,Zambia,1996
+Eritrea,Ethiopia (excludes Eritrea),1996
+Eritrea,Kenya,1996
+Eritrea,Rwanda,1996
+Eritrea,Tanzania,1996
+Eritrea,Uganda,1996
+Eritrea,Zambia,1996
+Ethiopia (excludes Eritrea),Kenya,1996
+Ethiopia (excludes Eritrea),Rwanda,1996
+Ethiopia (excludes Eritrea),Tanzania,1996
+Ethiopia (excludes Eritrea),Uganda,1996
+Ethiopia (excludes Eritrea),Zambia,1996
+Kenya,Rwanda,1996
+Kenya,Tanzania,1996
+Kenya,Uganda,1996
+Kenya,Zambia,1996
+Rwanda,Tanzania,1996
+Rwanda,Uganda,1996
+Rwanda,Zambia,1996
+Tanzania,Uganda,1996
+Tanzania,Zambia,1996
+Uganda,Zambia,1996
+Bosnia and Herzegovina,Moldova,2017
+Bosnia and Herzegovina,Azerbaijan,2003
+Bosnia and Herzegovina,African Union,2013
+Bosnia and Herzegovina,The Gambia,2011
+Bosnia and Herzegovina,Norway,2017
+Bosnia and Herzegovina,Peru,2017
+Bosnia and Herzegovina,Poland,2023
+Bosnia and Herzegovina,Estonia,2023
+Bosnia and Herzegovina,Latvia,2023
+Bosnia and Herzegovina,Lithuania,2023
+Bosnia and Herzegovina,Czech Republic,2023
+Bosnia and Herzegovina,Kazakhstan,2023
+Moldova,African Union,2013
+Moldova,The Gambia,2011
+Moldova,Russia,2014
+Moldova,Norway,2017
+Moldova,Peru,2017
+Moldova,"Bosnia and Herzegovina,Iceland",2023
+Bulgaria,Czech Republic,2002
+Bulgaria,Estonia,2002
+Bulgaria,Hungary,2002
+Bulgaria,Romania,2002
+Bulgaria,Slovakia,2002
+Bulgaria,Slovenia,1998
+Bulgaria,Latvia,2002
+Bulgaria,Lithuania,2002
+Bulgaria,Poland,2002
+Bulgaria,Slovenia,2002
+Czech Republic,Estonia,2023
+Czech Republic,Hungary,2002
+Czech Republic,Romania,2002
+Czech Republic,Slovakia,2002
+Czech Republic,Slovenia,1998
+Czech Republic,Latvia,2023
+Czech Republic,Lithuania,2023
+Czech Republic,Poland,2002
+Czech Republic,Slovenia,2002
+Czech Republic,Kazakhstan,2023
+Estonia,Hungary,2002
+Estonia,Romania,2002
+Estonia,Slovakia,2002
+Estonia,Slovenia,1998
+Estonia,Latvia,2023
+Estonia,Lithuania,2023
+Estonia,Poland,2002
+Estonia,Slovenia,2002
+Estonia,Kazakhstan,2023
+Hungary,Romania,2002
+Hungary,Slovakia,2002
+Hungary,Slovenia,1998
+Hungary,Latvia,2002
+Hungary,Lithuania,2002
+Hungary,Poland,2002
+Hungary,Slovenia,2002
+Romania,Slovakia,2002
+Romania,Slovenia,1998
+Romania,Latvia,2002
+Romania,Lithuania,2002
+Romania,Poland,2002
+Romania,Slovenia,2002
+Slovakia,Slovenia,1998
+Slovakia,Latvia,2002
+Slovakia,Lithuania,2002
+Slovakia,Poland,2002
+Slovakia,Slovenia,2002
+Sweden,G8,1998
+Latvia,Lithuania,2023
+Latvia,Poland,2002
+Latvia,Slovenia,2002
+Latvia,Kazakhstan,2023
+Lithuania,Poland,2002
+Lithuania,Slovenia,2002
+Lithuania,Kazakhstan,2023
+Poland,Slovenia,2002
+Poland,Singapore,2022
+Poland,Taiwan,2022
+Poland,Kosovo,2022
+Poland,G7,2022
+Poland,Monaco,2022
+Luxembourg,Ireland,2002
+Luxembourg,Greece,2002
+Ireland,Greece,2002
+African Union,Nigeria,2005
+African Union,SADC,2009
+African Union,Algeria,2012
+African Union,Kimberly Process Participants,2013
+Russia,Iran,2022
+South Korea,Taiwan,2022
+South Korea,Singapore,2022
+South Korea,Kosovo,2022
+South Korea,G7,2022
+South Korea,Monaco,2022
+South Korea,Korea,2023
+South Korea,South,2023
+MERCOSUR,UNASUR,2012
+Taiwan,Singapore,2022
+Taiwan,Kosovo,2022
+Taiwan,G7,2022
+Taiwan,Monaco,2022
+Djibouti,Chad,2017
+Djibouti,Libya,2017
+Djibouti,Maldives,2017
+Djibouti,Mauritania,2017
+Djibouti,Comoros,2017
+Djibouti,Jordan,2017
+Djibouti,Yemen,2017
+Djibouti,North,2017
+Djibouti,Niger,2017
+Djibouti,United Arab Emirates,2017
+Djibouti,Bahrain,2017
+Djibouti,Senegal,2017
+Norway,Peru,2017
+Chad,Libya,2017
+Chad,Maldives,2017
+Chad,Mauritania,2017
+Chad,Comoros,2017
+Chad,Jordan,2017
+Chad,Yemen,2017
+Chad,North,2017
+Chad,Niger,2017
+Chad,United Arab Emirates,2017
+Chad,Bahrain,2017
+Chad,Senegal,2017
+Libya,Maldives,2017
+Libya,Mauritania,2017
+Libya,Comoros,2017
+Libya,Jordan,2017
+Libya,Yemen,2017
+Libya,North,2017
+Libya,Niger,2017
+Libya,United Arab Emirates,2017
+Libya,Bahrain,2017
+Libya,Senegal,2017
+Maldives,Mauritania,2017
+Maldives,Comoros,2017
+Maldives,Jordan,2017
+Maldives,Yemen,2017
+Maldives,North,2017
+Maldives,Niger,2017
+Maldives,United Arab Emirates,2017
+Maldives,Bahrain,2017
+Maldives,Senegal,2017
+Mauritania,Comoros,2017
+Mauritania,Jordan,2017
+Mauritania,Yemen,2017
+Mauritania,North,2017
+Mauritania,Niger,2017
+Mauritania,United Arab Emirates,2017
+Mauritania,Bahrain,2017
+Mauritania,Senegal,2017
+Comoros,Jordan,2017
+Comoros,Yemen,2017
+Comoros,North,2017
+Comoros,Niger,2017
+Comoros,United Arab Emirates,2017
+Comoros,Bahrain,2017
+Comoros,Senegal,2017
+Jordan,Yemen,2017
+Jordan,North,2017
+Jordan,Niger,2017
+Jordan,United Arab Emirates,2017
+Jordan,Bahrain,2023
+Jordan,Senegal,2017
+Jordan,Honduras,2023
+Jordan,Belize,2023
+Jordan,Bolivia,2023
+Jordan,Chile,2023
+Yemen,North,2017
+Yemen,Niger,2017
+Yemen,United Arab Emirates,2017
+Yemen,Bahrain,2017
+Yemen,Senegal,2017
+North,Niger,2017
+North,United Arab Emirates,2017
+North,Bahrain,2017
+North,Senegal,2017
+Niger,United Arab Emirates,2017
+Niger,Bahrain,2017
+Niger,Senegal,2017
+United Arab Emirates,Bahrain,2017
+United Arab Emirates,Senegal,2017
+Bahrain,Senegal,2017
+Bahrain,Honduras,2023
+Bahrain,Belize,2023
+Bahrain,Bolivia,2023
+Bahrain,Chile,2023
+Singapore,Kosovo,2022
+Singapore,G7,2022
+Singapore,Monaco,2022
+Kosovo,G7,2022
+Kosovo,Monaco,2022
+G7,Monaco,2022
+Honduras,Belize,2023
+Honduras,Bolivia,2023
+Honduras,Chile,2023
+Belize,Bolivia,2023
+Belize,Chile,2023
+Bolivia,Chile,2023
+Korea,South,2023
